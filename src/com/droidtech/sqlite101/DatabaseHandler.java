@@ -19,7 +19,7 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 	private static final String KEY_NAME = "names";
 	private static final String KEY_NUMBER = "number";
 
-    private static String DB_PATH = "/data/data/com.click4tab.fragmentvogella/databases/";
+    
 
 	private DatabaseHandler handler;
 	private final Context myContext;
